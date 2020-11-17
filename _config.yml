@@ -3,8 +3,8 @@ course_name: "Análise de Algoritmos"
 course_description: "Página da disciplina de Análise de Algoritmos do curso superior de Bacharelado em Ciência da Computação do IFB, campus Taguatinga."
 course_semester: "2020/1"
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://danielsaad.com/analise-de-algoritmos" # the base hostname & protocol for your site
+baseurl: "/analise-de-algoritmos" # the subpath of your site, e.g. /blog/
+url: "https://danielsaad.com" # the base hostname & protocol for your site
 
 schoolname: "Instituto Federal de Educação, Ciência e Tecnologia de Brasília, campus Taguatinga"
 schoolurl: "https://www.ifb.edu.br/"
