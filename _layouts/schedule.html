@@ -3,7 +3,7 @@ layout: default
 ---
 
 <header class="post-header">
-    <h1 class="post-title">Schedule</h1>
+    <h1 class="post-title">Planejamento</h1>
 </header>
 
 {{ content }}
@@ -11,10 +11,10 @@ layout: default
 <div class="home" style="font-size: 0.8em;">
     <ul class="responsive-table" style="margin-left: 0;">
         <li class="table-header">
-            <div class="col col-1">Event</div>
-            <div class="col col-1-2">Date</div>
-            <div class="col col-2">Description</div>
-            <div class="col col-4">Course Material</div>
+            <div class="col col-1">Evento</div>
+            <div class="col col-1-2">Data</div>
+            <div class="col col-2">Descrição</div>
+            <div class="col col-4">Material</div>
         </li>
         
         {% assign all_assignment_dues = site.assignments | map: "due_event" %}

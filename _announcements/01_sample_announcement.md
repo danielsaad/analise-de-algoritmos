@@ -1,4 +1,4 @@
 ---
-date: 2018-10-03T10:00:00+3:30
+date: 2020-11-15T23:10:00-3:00
 ---
-Sample announcement, Please check out [here](/).
+Aviso de teste

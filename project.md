@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project
+title: Projetos
 permalink: /project/
 ---
 Describe Final project.
