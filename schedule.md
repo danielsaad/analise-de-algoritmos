@@ -4,4 +4,4 @@ title: Planejamento
 permalink: /schedule/
 ---
 
-* [Plano de Ensino]()
+* [Plano de Ensino](/assets/planejamento/plano-de-ensino.pdf)

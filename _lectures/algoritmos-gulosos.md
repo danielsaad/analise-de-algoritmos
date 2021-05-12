@@ -1,11 +1,11 @@
 ---
 type: lecture
-date: 2018-09-16T8:00:00+4:30
+date: 2018-09-16T0:00:00-3:00
 title: Introdução
 tldr: 
 thumbnail: /static_files/presentations/introducao.png
 links: 
-    - url: /assets/aulas/introducao.pdf
+    - url: /assets/aulas/algoritmos-gulosos.pdf
       name: slides
 
 ---
