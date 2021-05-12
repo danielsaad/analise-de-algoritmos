@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2018-09-16T0:00:00-3:00
+date: 2018-09-16T0:00:01-3:00
 title: Notação Assintótica
 tldr: 
 thumbnail: /static_files/presentations/introducao.png

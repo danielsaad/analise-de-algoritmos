@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2018-09-16T0:00:00-3:00
+date: 2018-09-16T0:00:04-3:00
 title: Divisão e Conquista
 tldr: 
 thumbnail: /static_files/presentations/divisao-e-conquista.jpg

@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2018-09-16T0:00:00-3:00
+date: 2018-09-16T0:00:07-3:00
 title: NP-Completude
 tldr: 
 thumbnail: /static_files/presentations/np-completude.png
