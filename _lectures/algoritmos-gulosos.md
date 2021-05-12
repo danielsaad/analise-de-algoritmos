@@ -1,5 +1,5 @@
 ---
-type: Lecture
+type: lecture
 date: 2018-09-16T0:00:00-3:00
 title: Algoritmos Gulosos
 tldr: 
