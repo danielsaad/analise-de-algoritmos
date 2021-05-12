@@ -5,9 +5,14 @@ title: Programação Dinâmica
 tldr: 
 thumbnail: /static_files/presentations/introducao.png
 links: 
-    - url: /assets/aulas/programacao-dinamica.pdf
-      name: slides
-
+    - url: /assets/aulas/relacoes-de-recorrencia-introducao.pdf
+      name: Introdução
+    - url: /assets/aulas/relacoes-de-recorrencia-substituição.pdf
+      name: Método da Substituição
+    - url: /assets/aulas/relacoes-de-reccorencia-iteracao.pdf
+      name: Método da Iteração
+    - url: /assets/aulas/relacoes-de-recorrencia-mestre.pdf
+      name: Método Mestre
 ---
 
 <!-- **Suggested Readings:**
