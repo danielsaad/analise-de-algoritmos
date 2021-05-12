@@ -1,20 +1,20 @@
 ---
 type: lecture
 date: 2018-09-16T0:00:00-3:00
-title: Ordenação)
+title: Ordenação
 tldr: 
 thumbnail: /static_files/presentations/introducao.png
 links: 
-    - url: /assets/aulas/introducao.pdf
-      name: slides (Introdução)
+    - url: /assets/aulas/ordenacao-introducao.pdf
+      name: Introdução
     - url: /assets/aulas/ordenacao-bubblesort.pdf
-      name: slides (Bubblesort)
+      name: Bubblesort
     - url: /assets/aulas/ordenacao-insertionsort.pdf
-      name: slides (Insertionsort)
+      name: Insertionsort
     - url: /assets/aulas/ordenacao-mergesort.pdf
-      name: slides (Mergesort)
-    - url: /assets/aulas/ordenacao-metodos-pseudolineares
-      name: slides (Ordenação Pseudolinear)
+      name: Mergesort
+    - url: /assets/aulas/ordenacao-metodos-pseudolineares.pdf
+      name: Ordenação Pseudolinear
 
 ---
 

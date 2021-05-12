@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2018-09-16T0:00:00-3:00
-title: Introdução
+title: Divisão e Conquista
 tldr: 
 thumbnail: /static_files/presentations/introducao.png
 links: 
