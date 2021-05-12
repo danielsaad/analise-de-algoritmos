@@ -3,7 +3,7 @@ type: lecture
 date: 2018-09-16T0:00:03-3:00
 title: Ordenação
 tldr: 
-thumbnail: /static_files/presentations/ordenacao.png
+thumbnail: /static_files/presentations/ordenacao.jpg
 links: 
     - url: /assets/aulas/ordenacao-introducao.pdf
       name: Introdução

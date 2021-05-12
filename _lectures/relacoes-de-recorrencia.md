@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2018-09-16T0:00:02-3:00
-title: Programação Dinâmica
+title: Relações de Recorrência
 tldr: 
 thumbnail: /static_files/presentations/relacoes-de-recorrencia.png
 links: 
