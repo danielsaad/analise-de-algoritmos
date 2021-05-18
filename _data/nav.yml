@@ -11,6 +11,10 @@ items:
   name: Aulas
   icon_class: fas fa-book-reader
 
+- url: /exercises/
+  name: Exercícios
+  icon_class: fas fa-book-reader
+
 - url: /assignments/
   name: Projetos
   icon_class: fas fa-user-graduate
