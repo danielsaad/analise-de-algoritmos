@@ -37,6 +37,8 @@ collections:
         output: true
     lectures:
         output: true
+    exercises:
+        output: true
     assignments:
         output: true
     announcements:
