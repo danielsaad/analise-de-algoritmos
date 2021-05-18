@@ -1,12 +1,12 @@
 ---
-type: exercises
+type: lecture
 date: 2018-09-16T0:00:05-3:00
 title: Algoritmos Gulosos
 tldr: 
 thumbnail: /static_files/presentations/algoritmos-gulosos.jpg
 links: 
-    - url: /assets/listas-de-exercicio/algoritmos-gulosos.pdf
-      name: slides
+    - url: /assets/aulas/algoritmos-gulosos.pdf
+      name: pdf
 
 ---
 
