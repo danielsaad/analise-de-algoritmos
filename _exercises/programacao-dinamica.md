@@ -1,5 +1,5 @@
 ---
-type: lecture
+type: exercises
 date: 2018-09-16T0:00:06-3:00
 title: Programação Dinâmica
 tldr: 
