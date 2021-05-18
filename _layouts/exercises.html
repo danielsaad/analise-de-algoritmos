@@ -1,0 +1,38 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<ul id="archive">
+{% for exercises in site.exercises %}
+<li class="archiveposturl" style="background: transparent">
+<div class="lecture-container">
+    {% if exercises.thumbnail %}
+    <div class="thumbnail">
+      <div class="center-cropped" style="margin-top:5px;margin-bottom:5px;background-image: url('{{ exercises.thumbnail | prepend: site.baseurl }}');">
+        <img src="{{ exercises.thumbnail | prepend: site.baseurl }}"/>
+      </div>
+    </div>
+    {% endif %}
+    <div class="content">
+        <span style="font-weight: bold;">{{ exercises.title }}</span><br>
+        {% if exercises.tldr %}
+          <strong>tl;dr:</strong> {{ exercises.tldr }}
+          <br/>
+          <strong>
+        {% endif %}
+        {% include exercises_links.html exercises=exercises %}
+        </strong>
+
+        {% if exercises.content != '' %}
+        <br/>
+        <div class="markdown-content" style="margin-top: 3px;">
+        {{ exercises.content }}
+        </div>
+        {% endif %}
+    </div>
+</div>
+</li>
+{% endfor %}
+</ul>
