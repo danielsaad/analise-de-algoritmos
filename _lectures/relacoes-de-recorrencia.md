@@ -7,9 +7,9 @@ thumbnail: /static_files/presentations/relacoes-de-recorrencia.png
 links: 
     - url: /assets/aulas/relacoes-de-recorrencia-introducao.pdf
       name: Introdução
-    - url: /assets/aulas/relacoes-de-recorrencia-substituição.pdf
+    - url: /assets/aulas/relacoes-de-recorrencia-substituicao.pdf
       name: Método da Substituição
-    - url: /assets/aulas/relacoes-de-reccorencia-iteracao.pdf
+    - url: /assets/aulas/relacoes-de-recorrencia-iteracao.pdf
       name: Método da Iteração
     - url: /assets/aulas/relacoes-de-recorrencia-mestre.pdf
       name: Método Mestre
