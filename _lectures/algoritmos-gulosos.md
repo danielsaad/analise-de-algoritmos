@@ -5,7 +5,7 @@ title: Algoritmos Gulosos
 tldr: 
 thumbnail: /static_files/presentations/algoritmos-gulosos.jpg
 links: 
-    - url: /assets/listas-de-exercicio/algoritmos-gulosos.pdf
+    - url: /assets/aulas/algoritmos-gulosos.pdf
       name: slides
 
 ---
