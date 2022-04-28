@@ -6,4 +6,4 @@ Registre-se na [sala de aula virtual da disciplina](https://nead.ifb.edu.br/cour
 
 Clique [aqui](https://discord.gg/fEmQTsmN) para acessar o Discord da disciplina.
 
-**Atendimento discente**: terças-feiras das 14h às 16h. Agendamento através do [Calendly](https://calendly.com/daniel-saad/atendimento-discente)
+**Atendimento discente**: terças-feiras das 14h às 16h. 
