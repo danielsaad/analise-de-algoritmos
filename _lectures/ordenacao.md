@@ -13,6 +13,8 @@ links:
       name: Insertionsort
     - url: /assets/aulas/ordenacao-mergesort.pdf
       name: Mergesort
+    - url: /assets/aulas/ordenacao-quicksort.pdf
+      name: Quicksort
     - url: /assets/aulas/ordenacao-metodos-pseudolineares.pdf
       name: Ordenação Pseudolinear
 
