@@ -15,6 +15,8 @@ links:
       name: Mergesort
     - url: /assets/aulas/ordenacao-quicksort.pdf
       name: Quicksort
+    - url: /assets/aulas/ordenacao-heapsort.pdf
+      name: Heapsort
     - url: /assets/aulas/ordenacao-metodos-pseudolineares.pdf
       name: Ordenação Pseudolinear
 
