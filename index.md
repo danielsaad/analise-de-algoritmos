@@ -2,8 +2,6 @@
 layout: home
 ---
 
-Registre-se na [sala de aula virtual da disciplina](https://nead.ifb.edu.br/course/view.php?id=10702) para receber as notificações. A chave de autoinscrição é **ifbnead**.
+Registre-se na [sala de aula virtual da disciplina.](https://classroom.google.com/c/NTQzNzU5MTE3MzMw?cjc=hynt4ld)
 
-Clique [aqui](https://discord.gg/fEmQTsmN) para acessar o Discord da disciplina.
-
-**Atendimento discente**: terças-feiras das 14h às 16h. 
+[Atendimento Discente.](https://danielsaad.com/contato)
