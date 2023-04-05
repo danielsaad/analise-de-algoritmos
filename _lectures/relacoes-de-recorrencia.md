@@ -9,8 +9,6 @@ links:
       name: Introdução
     - url: /assets/aulas/relacoes-de-recorrencia-substituicao.pdf
       name: Método da Substituição
-    - url: /assets/aulas/relacoes-de-recorrencia-iteracao.pdf
-      name: Método da Iteração
     - url: /assets/aulas/relacoes-de-recorrencia-mestre.pdf
       name: Método Mestre
 ---
