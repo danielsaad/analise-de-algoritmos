@@ -13,8 +13,7 @@ items:
 
 - url: /exercises/
   name: Exercícios
-  icon_class: fas fa-book-reader
-
+  icon_class: fas fa-brain
 - url: /assignments/
   name: Projetos
   icon_class: fas fa-user-graduate
