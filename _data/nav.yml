@@ -19,6 +19,10 @@ items:
   name: Projetos
   icon_class: fas fa-user-graduate
 
+- url: /assets/notas.pdf
+  name: Notas
+  icon_class: fas fa-hundred-points
+
 - url: /materials/
   name: Materiais
   icon_class: fas fa-book
