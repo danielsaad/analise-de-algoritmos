@@ -14,13 +14,14 @@ items:
 - url: /exercises/
   name: Exercícios
   icon_class: fas fa-brain
+
 - url: /assignments/
   name: Projetos
   icon_class: fas fa-user-graduate
 
 - url: /assets/notas.pdf
   name: Notas
-  icon_class: fas fa-hundred-points
+  icon_class: fa-solid fa-hundred-points
 
 - url: /materials/
   name: Materiais
