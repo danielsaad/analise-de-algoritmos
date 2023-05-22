@@ -21,7 +21,7 @@ items:
 
 - url: /assets/notas.pdf
   name: Notas
-  icon_class: fa-solid fa-hundred-points
+  icon_class: fa-solid fa-chart-line
 
 - url: /materials/
   name: Materiais
