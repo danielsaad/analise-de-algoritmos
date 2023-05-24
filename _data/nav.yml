@@ -21,7 +21,7 @@ items:
 
 - url: /assets/notas.pdf
   name: Notas
-  icon_class: fas fa-table-list
+  icon_class: fas fa-trophy
 
 - url: /materials/
   name: Materiais
