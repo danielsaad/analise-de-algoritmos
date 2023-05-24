@@ -21,7 +21,7 @@ items:
 
 - url: /assets/notas.pdf
   name: Notas
-  icon_class: fas check-square
+  icon_class: fas fa-table-list
 
 - url: /materials/
   name: Materiais
