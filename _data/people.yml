@@ -2,6 +2,10 @@ instructors:
   - name: Daniel Saad Nogueira Nunes
     profile_pic: /_images/pp/danielsaad.jpg
     webpage: https://danielsaad.com
+  - name: Leandro Vaguetti
+    profile_pic: /_images/pp/vaguetti.jpeg
+    webpage: 
+
 
 # teaching_assistants:
 #   - name: Virgulino Ferreira da Silva
