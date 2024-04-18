@@ -6,4 +6,4 @@ pdf: /assets/trabalhos/problema-da-mochila.pdf
 attachment: /assets/trabalhos/problema-da-mochila.zip
 ---
 
-[Explicação sobre o dataset](/assets/trabalhos/comentarios-dataset-problema-da-mochila.pdf | prepend: site.baseurl)
+[Explicação sobre o dataset]({{ /assets/trabalhos/comentarios-dataset-problema-da-mochila.pdf" | prepend: site.baseurl }})
